@@ -1,0 +1,11 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url(../images/404.jpeg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+}
